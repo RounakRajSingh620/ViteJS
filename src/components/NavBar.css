@@ -13,4 +13,5 @@ ul {
 nav {
     background-color: beige;
     padding: 23px;
+    border-radius:2px;
 }
